@@ -1,7 +1,7 @@
 ### Bem vindo👋
 
 - Me chamo Everton Silva
-- Atualmente estudando no alura
+- Atualmente cursando no alura
 - Aprendendo sobre programação
 - Entre em contato comigo em:
 - @euevertin
